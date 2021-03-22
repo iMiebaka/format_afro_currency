@@ -1,7 +1,7 @@
-#Africa Currency Formatter
+# Africa Currency Formatter
 This is a light weight python module to format African currencies
 
-##Installation
+## Installation
 NB: This module has been tested on python 3, but ma ynot have
 backward compactability with python 2
 
@@ -10,7 +10,7 @@ backward compactability with python 2
 > source env/bin/activate
 > pip install format_afro_currency
 
-##Demo
+## Demo
 > >>> format_afro_currency.currency(1000)
   >>>'₦1,000.00'
   >>>value = 1000
