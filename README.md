@@ -7,7 +7,6 @@ backward compactability with python 2
 
 *We recommend you create a virtual enviroment*
 > python3 -m venv env
-
 > source env/bin/activate
 
 > pip install format_afro_currency
