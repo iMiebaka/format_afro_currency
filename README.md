@@ -2,7 +2,7 @@
 This is a light weight python module to format African currencies
 
 Github page
-(https://github.com/triple07even/format_afro_currency)
+https://github.com/triple07even/format_afro_currency
 
 ## Installation
 NB: This module has been tested on python 3, but may not have
