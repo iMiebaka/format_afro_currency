@@ -12,9 +12,13 @@ backward compactability with python 2
 
 ## Demo
 > format_afro_currency.currency(1000)
+> 
 > '₦1,000.00'
+> 
 > value = 1000
+> 
 > format_afro_currency.currency(value, currency='NGN', show_naira=True, show_kobo=False)
+> 
 > '₦1,000.00'
 
 Currently this module provide support for the currency listed below,
