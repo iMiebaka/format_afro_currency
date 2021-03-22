@@ -2,7 +2,7 @@
 This is a light weight python module to format African currencies
 
 ## Installation
-NB: This module has been tested on python 3, but ma ynot have
+NB: This module has been tested on python 3, but may not have
 backward compactability with python 2
 
 *We recommend you create a virtual enviroment*
